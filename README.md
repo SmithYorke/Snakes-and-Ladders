@@ -1,6 +1,7 @@
 # Snakes-and-Ladders
 I still haven't finished it, but you can give it a try at any time
-
+just download the file and run main to experience the game. 
+Currently, the overall playability is complete, and the details can be further optimized
 
 
 Main. py (or main file):
